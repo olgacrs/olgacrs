@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olgacrs
+- 👋 Hi, I’m Olga
 - 👀 I’m interested in coding ang mechanical engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
